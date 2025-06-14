@@ -1,0 +1,39 @@
+[
+    {
+        "description": "Finish math homework",
+        "category": "School",
+        "priority": "High",
+        "completed": false
+    },
+    {
+        "description": "Online class",
+        "category": "School",
+        "priority": "Medium",
+        "completed": true
+    },
+    {
+        "description": "Client metting",
+        "category": "Work",
+        "priority": "High",
+        "completed": false
+    },
+    {
+        "description": "Grocery",
+        "category": "Personal",
+        "priority": "Low",
+        "completed": true
+    },
+    {
+        "description": "Movie",
+        "category": "Personal",
+        "priority": "High",
+        "completed": true
+    },
+    {
+        "description": "class",
+        "category": "School",
+        "priority": "High",
+        "due_date": "2025-05-29 17:20",
+        "completed": false
+    }
+]
